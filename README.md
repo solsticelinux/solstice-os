@@ -37,7 +37,7 @@ oh, and we care about performance. modern cpus, modern kernels, optimized builds
 solstice is in development. we're starting for real in june 2026, aiming for an alpha in september. we're learning as we build this thing. if you want to jump in and learn alongside us, we're absolutely down for that.
 
 **current status (april 2026):**
-- 1.2K+ Reddit views on r/linuxfromscratch
+- 4.9K+ Reddit views on r/linuxfromscratch
 - active Discord community with early collaborators
 - technical architecture finalized
 - community growing organically
@@ -48,7 +48,7 @@ want to build solstice?
 
 - get debian or whatever on your machine (you'll need build tools)
 - check out the [ROADMAP.md](ROADMAP.md)
-- peek at the source on github
+- ~~peek at the source on github~~ theres no source yet.
 - hang out in our discord: https://discord.gg/56DYRUnzP5
 
 ## props
