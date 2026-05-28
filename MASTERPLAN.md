@@ -91,5 +91,4 @@ if that happens, we're golden.
 
 - **claude** — literally helped me design all this, thought through the architecture, the overlay system, everything
 - **NEOAPPS** — early collaborator, distro developer, helped with solpm architecture decisions
-- **ImAmir** — system architecture design contributions, constrained interface ideas
 - **linux from scratch** — the bootstrap knowledge came straight from there, super valuable
