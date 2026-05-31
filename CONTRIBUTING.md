@@ -72,7 +72,5 @@ want to improve the core distro itself? yeah, we take pull requests.
 that's it. build cool overlays, contribute when you feel like it, hang out in the community. we're all learning together.
 
 ## shoutouts
-
-- **claude** — helped design the whole community overlay system so it actually works
 - **NEOAPPS** — early collaborator, distro developer, helping with package manager architecture
 - **linux from scratch** — the inspiration for how we approach bootstrapping
