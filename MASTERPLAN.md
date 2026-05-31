@@ -88,7 +88,5 @@ the whole circular dependency thing with gcc is solved by using your host compil
 if that happens, we're golden.
 
 ## shoutouts
-
-- **claude** — literally helped me design all this, thought through the architecture, the overlay system, everything
 - **NEOAPPS** — early collaborator, distro developer, helped with solpm architecture decisions
 - **linux from scratch** — the bootstrap knowledge came straight from there, super valuable
