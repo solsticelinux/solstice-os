@@ -71,6 +71,4 @@ june start because that's when i can dedicate real time to this. september alpha
 is it tight? yeah. but i've got the hardware and the time starting june.
 
 ## props
-
-- **claude** — helped me map out this whole thing, made sure the timeline was realistic
 - **linux from scratch** — literally the foundation for everything i'm learning
