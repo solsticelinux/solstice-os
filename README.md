@@ -54,6 +54,5 @@ want to build solstice?
 ## props
 
 big thanks to:
-- **claude** — helped me think through the whole thing, the vision, the architecture, all of it
 - **NEOAPPS** — early collaborator, distro developer, architecture advisor
 - **linux from scratch** — that book is insane, literally teaches you how to build a distro from nothing
