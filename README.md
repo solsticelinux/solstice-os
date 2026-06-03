@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="2026_06_03_0rc_Kleki" src="https://github.com/user-attachments/assets/1ff60b40-d535-4ba9-80e1-9ba69eafd603" />
+<img width="512" height="512" alt="2026_06_03_0rc_Kleki" src="https://github.com/user-attachments/assets/1ff60b40-d535-4ba9-80e1-9ba69eafd603" />
 
 
 # solstice os
