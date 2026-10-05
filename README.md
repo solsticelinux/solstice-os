@@ -12,7 +12,7 @@
 
 <h2>Why Make another Source-Based Distro?</h2>
 
-Gentoo is cool, but extremely overwhelming. You have 50+ USE flags per package that just pile up and confuse you. Then there are traditional binary-first distros (such as Ubuntu, Debian, Arch, Fedora, etc.), meaning you don't get the performance benefits of compiling packages for *your* specific hardware.  
+Gentoo is cool, but extremely overwhelming. You have 50+ USE flags per package that just pile up and confuse you. Then there are traditional binary-first distros (such as Ubuntu, Debian, Arch, Fedora, etc.), meaning you don't get the security and performance benefits of knowing that you compiled packages for *your* specific hardware from developers you trust.  
 But here's the thing — a sourced based distro doesn't have to be a nightmare. **Solstice takes the good parts (control, performance, understanding your system) and cuts out all the complexity.**  
 <div align='center'>
 <b>We don't want overlays (extra package repos) to be some afterthought. They're first-class citizens. The user chooses what overlays they want from the developers they trust.</b>
